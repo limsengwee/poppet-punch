@@ -1,0 +1,7 @@
+{
+  "name": "Poppet Punch",
+  "description": "An interactive game where users can upload a photo or use their camera to 'punch' a poppet. The app uses AI to generate realistic effects on the image based on different tools, with a scoring and rewards system.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
